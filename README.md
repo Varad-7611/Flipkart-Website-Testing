@@ -8,7 +8,7 @@ This project demonstrates **end-to-end automation testing** on the Flipkart webs
 - **Language:** Python 🐍  
 - **Framework:** Selenium WebDriver 🌐  
 - **Browser:** Chrome / Chromium  
-- **Tools:** PyCharm / VS Code  
+- **Tools:** VS Code  
 
 ---
 
